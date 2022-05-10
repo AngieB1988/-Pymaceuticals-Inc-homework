@@ -1,13 +1,10 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[23]:
 
 
 ## Pymaceuticals Inc.
 
 
-# In[24]:
+
 
 
 # Dependencies
